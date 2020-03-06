@@ -1,27 +1,26 @@
 {
   "files": {
-    "main.css": "/design-tool/static/css/main.3fa7586b.chunk.css",
-    "main.js": "/design-tool/static/js/main.d36a8760.chunk.js",
-    "main.js.map": "/design-tool/static/js/main.d36a8760.chunk.js.map",
+    "main.css": "/design-tool/static/css/main.54f5b7ef.chunk.css",
+    "main.js": "/design-tool/static/js/main.45b422d7.chunk.js",
+    "main.js.map": "/design-tool/static/js/main.45b422d7.chunk.js.map",
     "runtime-main.js": "/design-tool/static/js/runtime-main.59fecc99.js",
     "runtime-main.js.map": "/design-tool/static/js/runtime-main.59fecc99.js.map",
     "static/css/2.2ce93ba3.chunk.css": "/design-tool/static/css/2.2ce93ba3.chunk.css",
-    "static/js/2.719c4365.chunk.js": "/design-tool/static/js/2.719c4365.chunk.js",
-    "static/js/2.719c4365.chunk.js.map": "/design-tool/static/js/2.719c4365.chunk.js.map",
+    "static/js/2.29d39e1e.chunk.js": "/design-tool/static/js/2.29d39e1e.chunk.js",
+    "static/js/2.29d39e1e.chunk.js.map": "/design-tool/static/js/2.29d39e1e.chunk.js.map",
     "index.html": "/design-tool/index.html",
-    "precache-manifest.b63757a7260a8560982ac80718836673.js": "/design-tool/precache-manifest.b63757a7260a8560982ac80718836673.js",
+    "precache-manifest.04f62ee5a3da2287b342fc83481507f8.js": "/design-tool/precache-manifest.04f62ee5a3da2287b342fc83481507f8.js",
     "service-worker.js": "/design-tool/service-worker.js",
     "static/css/2.2ce93ba3.chunk.css.map": "/design-tool/static/css/2.2ce93ba3.chunk.css.map",
-    "static/css/main.3fa7586b.chunk.css.map": "/design-tool/static/css/main.3fa7586b.chunk.css.map",
-    "static/js/2.719c4365.chunk.js.LICENSE.txt": "/design-tool/static/js/2.719c4365.chunk.js.LICENSE.txt",
-    "static/media/UploadIcon.svg": "/design-tool/static/media/UploadIcon.1cedb6e9.svg",
-    "static/media/image-easy.png": "/design-tool/static/media/image-easy.8d4239f6.png"
+    "static/css/main.54f5b7ef.chunk.css.map": "/design-tool/static/css/main.54f5b7ef.chunk.css.map",
+    "static/js/2.29d39e1e.chunk.js.LICENSE.txt": "/design-tool/static/js/2.29d39e1e.chunk.js.LICENSE.txt",
+    "static/media/UploadIcon.svg": "/design-tool/static/media/UploadIcon.1cedb6e9.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.59fecc99.js",
     "static/css/2.2ce93ba3.chunk.css",
-    "static/js/2.719c4365.chunk.js",
-    "static/css/main.3fa7586b.chunk.css",
-    "static/js/main.d36a8760.chunk.js"
+    "static/js/2.29d39e1e.chunk.js",
+    "static/css/main.54f5b7ef.chunk.css",
+    "static/js/main.45b422d7.chunk.js"
   ]
 }
