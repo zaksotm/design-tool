@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/design-tool/static/css/main.2fbc2d55.chunk.css",
-    "main.js": "/design-tool/static/js/main.76b74737.chunk.js",
-    "main.js.map": "/design-tool/static/js/main.76b74737.chunk.js.map",
+    "main.css": "/design-tool/static/css/main.e36bba30.chunk.css",
+    "main.js": "/design-tool/static/js/main.e3df3f2d.chunk.js",
+    "main.js.map": "/design-tool/static/js/main.e3df3f2d.chunk.js.map",
     "runtime-main.js": "/design-tool/static/js/runtime-main.59fecc99.js",
     "runtime-main.js.map": "/design-tool/static/js/runtime-main.59fecc99.js.map",
     "static/css/2.2ce93ba3.chunk.css": "/design-tool/static/css/2.2ce93ba3.chunk.css",
-    "static/js/2.1f4f02e2.chunk.js": "/design-tool/static/js/2.1f4f02e2.chunk.js",
-    "static/js/2.1f4f02e2.chunk.js.map": "/design-tool/static/js/2.1f4f02e2.chunk.js.map",
+    "static/js/2.c686855e.chunk.js": "/design-tool/static/js/2.c686855e.chunk.js",
+    "static/js/2.c686855e.chunk.js.map": "/design-tool/static/js/2.c686855e.chunk.js.map",
     "index.html": "/design-tool/index.html",
-    "precache-manifest.ddf3f2e08a10fc50108280dee45f02bb.js": "/design-tool/precache-manifest.ddf3f2e08a10fc50108280dee45f02bb.js",
+    "precache-manifest.506ec0303d6d467c962905aa1e66e80d.js": "/design-tool/precache-manifest.506ec0303d6d467c962905aa1e66e80d.js",
     "service-worker.js": "/design-tool/service-worker.js",
     "static/css/2.2ce93ba3.chunk.css.map": "/design-tool/static/css/2.2ce93ba3.chunk.css.map",
-    "static/css/main.2fbc2d55.chunk.css.map": "/design-tool/static/css/main.2fbc2d55.chunk.css.map",
-    "static/js/2.1f4f02e2.chunk.js.LICENSE.txt": "/design-tool/static/js/2.1f4f02e2.chunk.js.LICENSE.txt",
-    "static/media/UploadIcon.svg": "/design-tool/static/media/UploadIcon.1cedb6e9.svg"
+    "static/css/main.e36bba30.chunk.css.map": "/design-tool/static/css/main.e36bba30.chunk.css.map",
+    "static/js/2.c686855e.chunk.js.LICENSE.txt": "/design-tool/static/js/2.c686855e.chunk.js.LICENSE.txt",
+    "static/media/UploadIcon.svg": "/design-tool/static/media/UploadIcon.1cedb6e9.svg",
+    "static/media/default.bmp": "/design-tool/static/media/default.1ac98315.bmp"
   },
   "entrypoints": [
     "static/js/runtime-main.59fecc99.js",
     "static/css/2.2ce93ba3.chunk.css",
-    "static/js/2.1f4f02e2.chunk.js",
-    "static/css/main.2fbc2d55.chunk.css",
-    "static/js/main.76b74737.chunk.js"
+    "static/js/2.c686855e.chunk.js",
+    "static/css/main.e36bba30.chunk.css",
+    "static/js/main.e3df3f2d.chunk.js"
   ]
 }
